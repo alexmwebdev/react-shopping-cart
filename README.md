@@ -1,1 +1,2 @@
-React App for a Shopping Cart"# react-shopping-cart" 
+This is the React Shopping Cart that I worked on during my time outside work hours
+
